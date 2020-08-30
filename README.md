@@ -74,8 +74,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[Celebrate](https://github.com/arb/celebrate)**
 -   **[Joi](https://github.com/hapijs/joi)**
 
-> Veja o arquivo  [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/server/package.json)
-
 #### [](https://github.com/tgmarinho/Ecoleta#mobile-react-native--typescript)**Mobile**  ([React Native](http://www.reactnative.com/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[Expo](https://expo.io/)**
@@ -87,8 +85,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[Axios](https://github.com/axios/axios)**
 -   **[Expo Location](https://docs.expo.io/versions/latest/sdk/location/)**
 -   **[Expo Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)**
-
-> Veja o arquivo  [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/mobile/package.json)
 
 #### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilitários**
 
